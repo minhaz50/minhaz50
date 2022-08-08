@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minhaz
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js & Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  : md.minhazuddin2597@gmail.com
 
