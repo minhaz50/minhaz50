@@ -1,8 +1,8 @@
 ![bg-cover-1](https://github.com/minhaz50/minhaz50/assets/77971247/1064f558-b4fe-4646-8794-cc5976cfcd94)
 
 
-👋 Hi, I’m Minhaz
-I'm 26 years old developer based in Bangladesh, and I'm passionate about building  Web-Applications.
+Hi, I’m Minhaz👋
+- I'm 26 years old developer based in Bangladesh, and I'm passionate about building  Web-Applications.
 
 
 🌐 What i currently do
