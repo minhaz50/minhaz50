@@ -1,4 +1,5 @@
-![bg-cover-1]([https://i.ibb.co/cXk31hc2/linkdin-cover.png])
+![Cover Image](https://your-image-url.com/banner.png)
+
 
 
 Hi, I’m Minhaz👋
