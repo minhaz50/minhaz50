@@ -1,4 +1,4 @@
-![bg-cover-1]([https://github.com/minhaz50/minhaz50/assets/77971247/1064f558-b4fe-4646-8794-cc5976cfcd94](https://i.ibb.co/cXk31hc2/linkdin-cover.png))
+![bg-cover-1]([https://github.com/minhaz50/minhaz50/assets/77971247/1064f558-b4fe-4646-8794-cc5976cfcd94])
 
 
 Hi, I’m Minhaz👋
