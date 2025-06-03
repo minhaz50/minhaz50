@@ -1,4 +1,4 @@
-![Cover Image](https://your-image-url.com/banner.png)
+![Cover Image](https://i.ibb.co/cXk31hc2/linkdin-cover.png)
 
 
 
