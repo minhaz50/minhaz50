@@ -1,4 +1,4 @@
-![Cover Image](https://i.ibb.co/cXk31hc2/linkdin-cover.png)
+![Cover Image](https://ibb.co/dkgqh7p)
 
 
 
